@@ -85,7 +85,7 @@ if ($_POST) {
                     <div class="navbar-nav mx-auto py-0">
                         <a href="index.php" class="nav-item nav-link">Inicio</a>
                         <a href="autores.php" class="nav-item nav-link">Todos los Autores</a>
-                        <a href="service.php" class="nav-item nav-link">Servicios</a>
+                        <a href="service.php" class="nav-item nav-link">Servicio</a>
                         <a href="project.php" class="nav-item nav-link">Proyectos</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Paginas</a>
